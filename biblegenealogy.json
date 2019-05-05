@@ -1,0 +1,60 @@
+{
+    "config": {
+    "lang": "pt-BR"
+    },
+    "persons": 
+    [
+        {
+            "guid": "D32E-D393-8656-4CEA",
+            "names": [ 
+                {
+                    "name": "Abrão",
+                    "changeDate": null,
+                    "reason": "Nome de nascença" 
+                },
+                {
+                    "name": "Abraão",
+                    "changeDate": null,
+                    "reason": "Deus alterou seu nome quando da promessa de uma grande nação (precisa revisão)"
+                }
+            ],
+            "spouse": { 
+                "guid": "B501-C684-5D02-4D9E",
+                "name": "Sara",
+                "sons": [
+                    {
+                        "guid": "9877-A587-A6DB-4CCF",
+                        "codeName": "ISAAC",
+                        "name": "ISAAC",
+                        "spouse": {
+                            "guid": "4EC0-B177-3C19-44DC",
+                            "name": "Rebeca",
+                            "sons": []
+                        }
+                    }
+                ]
+            }
+        },
+        {
+            "guid": "256F-B601-0A70-4F4B",
+            "name": "Nacor",
+            "spouse": {
+                "guid": "0BBE-8A67-CED3-42F1",
+                "sons": [
+                    {
+                        "guid": "A9F2-BA65-7873-4EE9",
+                        "spouse": {
+                            "guid": "CA08-177F-20B7-4B95",
+                            "sons": [
+                                {
+                                    "guid": "4EC0-B177-3C19-44DC",
+                                    "Name": "Rebeca"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
